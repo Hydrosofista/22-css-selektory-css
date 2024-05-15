@@ -1,0 +1,17 @@
+h1, h3{
+  background-color: burlywood; 
+}
+
+h1 + h3{
+  color: rgb(34, 9, 196); 
+}
+
+h3 { 
+  color: rgb(0, 110, 108); 
+}
+#p-1 {
+  color: rgb(89, 97, 0); 
+}
+#p-2 {
+  color: rgb(142, 0, 0);
+}
